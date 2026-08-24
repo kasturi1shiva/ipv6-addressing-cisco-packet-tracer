@@ -1,0 +1,12 @@
+Screenshot mapping
+==================
+01-router-serial-config.png  - R1 Serial0/0/0 IPv6 configuration
+02-router-g0-1-config.png    - R1 GigabitEthernet0/1 IPv6 configuration
+03-router-g0-0-config.png    - R1 GigabitEthernet0/0 IPv6 configuration
+04-accounting-ipv6.png       - Accounting server IPv6 configuration
+05-engineering-ipv6.png      - Engineering PC IPv6 configuration
+06-design-ipv6.png           - Design PC IPv6 configuration
+07-billing-ipv6.png          - Billing PC IPv6 configuration
+08-sales-ipv6.png            - Sales PC IPv6 configuration
+09-cad-ipv6.png              - CAD server IPv6 configuration
+10-cad-web-connectivity.png  - Successful IPv6 web access to CAD server
